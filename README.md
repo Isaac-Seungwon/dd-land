@@ -31,7 +31,7 @@ DD-Land는 Spring 프레임워크를 활용하여 개발하고 AWS로 배포한 
 |**메인 페이지**|**설명**|
 |:---:|:---:|
 |![메인 페이지](https://isaac-seungwon.github.io/portfolio/assets/img/portfolio/portfolio-12/dd-land/dd-land%201.png)|DD-Land에 접속했을 때 메인 페이지입니다.|
-|![메인 페이지](https://isaac-seungwon.github.io/portfolio/assets/img/portfolio/portfolio-12/dd-land/dd-land%202.png)|메인 페이지에서 보여주는 추천 어트랙션 3위입니다.|
+|![메인 페이지](https://isaac-seungwon.github.io/portfolio/assets/img/portfolio/portfolio-12/dd-land/dd-land%202.png)|메인 페이지에서 보여주는 추천 어트랙션 1~3위입니다.|
 |**어트랙션 월드컵 페이지**|**설명**|
 |![어트랙션 월드컵 페이지](https://isaac-seungwon.github.io/portfolio/assets/img/portfolio/portfolio-12/dd-land/dd-land%204.png)|어트랙션 월드컵 페이지로 이동합니다.|
 |![어트랙션 월드컵 페이지](https://isaac-seungwon.github.io/portfolio/assets/img/portfolio/portfolio-12/dd-land/dd-land%206.png)|어트랙션을 선택하여 어트랙션 월드컵을 진행합니다.|
