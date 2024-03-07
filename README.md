@@ -39,5 +39,5 @@ DD-Land는 Spring 프레임워크를 활용하여 개발하고 AWS로 배포한 
 |![어트랙션 월드컵 페이지](https://isaac-seungwon.github.io/portfolio/assets/img/portfolio/portfolio-12/dd-land/dd-land%208.png)|어트랙션 월드컵에서 최종 우승한 어트랙션입니다.|
 |![어트랙션 월드컵 페이지](https://isaac-seungwon.github.io/portfolio/assets/img/portfolio/portfolio-12/dd-land/dd-land%209.png)|최종 우승한 어트랙션을 클릭하면 해당 어트랙션 페이지로 이동합니다.|
 |**어트랙션 월드컵 관리자 페이지**|**설명**|
-|![어트랙션 월드컵 관리자 페이지](https://isaac-seungwon.github.io/portfolio/assets/img/portfolio/portfolio-12/dd-land/dd-land%2018.png)|어트랙션을 월드컵에 채택할지 여부를 결정하고, 우승 비율 및 승률을 확인합니다.|
+|![어트랙션 월드컵 관리자 페이지](https://isaac-seungwon.github.io/portfolio/assets/img/portfolio/portfolio-12/dd-land/dd-land%2018.png)|어트랙션을 월드컵에 테스트 채택 여부를 결정하고, 우승 비율 및 승률을 확인합니다.|
 
