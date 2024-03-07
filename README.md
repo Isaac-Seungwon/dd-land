@@ -25,3 +25,19 @@ DD-Land는 Spring 프레임워크를 활용하여 개발하고 AWS로 배포한 
 - Repository: DAO(Data Access Object) 인터페이스 및 구현체가 위치합니다.
 - Service: 비즈니스 로직을 처리하는 서비스 클래스가 위치합니다.
 - JSP: 사용자 인터페이스를 담당하는 JSP 파일이 위치합니다.
+  
+## 웹 애플리케이션 화면
+어트랙션 월드컵의 구현부에 대한 설명입니다.
+|**메인 페이지**|**설명**|
+|:---:|:---:|
+|![메인 페이지](https://isaac-seungwon.github.io/portfolio/assets/img/portfolio/portfolio-12/dd-land/dd-land%201.png)|DD-Land에 접속했을 때 메인 페이지입니다.|
+|![메인 페이지](https://isaac-seungwon.github.io/portfolio/assets/img/portfolio/portfolio-12/dd-land/dd-land%202.png)|메인 페이지에서 보여주는 추천 어트랙션 3위입니다.|
+|**어트랙션 월드컵 페이지**|**설명**|
+|![어트랙션 월드컵 페이지](https://isaac-seungwon.github.io/portfolio/assets/img/portfolio/portfolio-12/dd-land/dd-land%204.png)|어트랙션 월드컵 페이지로 이동합니다.|
+|![어트랙션 월드컵 페이지](https://isaac-seungwon.github.io/portfolio/assets/img/portfolio/portfolio-12/dd-land/dd-land%206.png)|어트랙션을 선택하여 어트랙션 월드컵을 진행합니다.|
+|![어트랙션 월드컵 페이지](https://isaac-seungwon.github.io/portfolio/assets/img/portfolio/portfolio-12/dd-land/dd-land%207.png)|어트랙션 월드컵 결승입니다.|
+|![어트랙션 월드컵 페이지](https://isaac-seungwon.github.io/portfolio/assets/img/portfolio/portfolio-12/dd-land/dd-land%208.png)|어트랙션 월드컵에서 최종 우승한 어트랙션입니다.|
+|![어트랙션 월드컵 페이지](https://isaac-seungwon.github.io/portfolio/assets/img/portfolio/portfolio-12/dd-land/dd-land%209.png)|최종 우승한 어트랙션을 클릭하면 해당 어트랙션 페이지로 이동합니다.|
+|**어트랙션 월드컵 관리자 페이지**|**설명**|
+|![어트랙션 월드컵 관리자 페이지](https://isaac-seungwon.github.io/portfolio/assets/img/portfolio/portfolio-12/dd-land/dd-land%2018.png)|어트랙션을 월드컵에 채택할지 여부를 결정하고, 우승 비율 및 승률을 확인합니다.|
+
